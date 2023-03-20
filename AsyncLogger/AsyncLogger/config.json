@@ -1,0 +1,10 @@
+{
+  "GetLogConfig": {
+    "LogName": ".txt",
+    "Path": ".\\log\\",
+    "TimeFormat": "H.mm.ss dd.MM.yyyy",
+    "N": 20,
+    "BackupPath": ".\\Backup\\"
+
+  }
+}
